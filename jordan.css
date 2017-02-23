@@ -54,7 +54,7 @@ li.contents
 	color: red;
 	border-style: solid;
 	border-color: #FF00D4;
-	border-width: 0.1pt;
+	border-width: 0.5pt;
 	font-family: Arial, Sans Serif;
 }
 p.special /* This was used to keep a border from going behind an image by making the border the same colour as the background */
