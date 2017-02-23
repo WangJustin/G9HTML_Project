@@ -48,15 +48,6 @@ img
 	margin-left: 20px;
 	font-family: Arial, Sans Serif;
 }
-li.contents 
-{
-	font-size: 22.25pt;
-	color: red;
-	border-style: solid;
-	border-color: #FF00D4;
-	border-width: 0.5pt;
-	font-family: Arial, Sans Serif;
-}
 p.special /* This was used to keep a border from going behind an image by making the border the same colour as the background */
 {
 	border-color: #202020;
